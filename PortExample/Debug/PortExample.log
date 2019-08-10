@@ -1,0 +1,15 @@
+﻿  paex_record.c
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+portaudio.lib(pa_allocation.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_allocation.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_converters.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_converters.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_cpuload.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_cpuload.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_dither.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_dither.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_front.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_front.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_process.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_process.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_stream.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_stream.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_win_ds.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_win_ds.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_win_ds_dynlink.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_win_ds_dynlink.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_win_hostapis.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_win_hostapis.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_win_util.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_win_util.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+portaudio.lib(pa_win_waveformat.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'portaudio.lib(pa_win_waveformat.obj)' or at 'C:\Users\SPURGE\source\repos\PortExample\Debug\vc100.pdb'; linking object as if no debug info
+  PortExample.vcxproj -> C:\Users\SPURGE\source\repos\PortExample\Debug\PortExample.exe
